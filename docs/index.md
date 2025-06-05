@@ -9,4 +9,4 @@ hide:
 
 ## Template site
 
-Hello Template
+Hello Template - test
